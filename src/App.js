@@ -1,11 +1,17 @@
 import React from 'react'
 import Chat from './Chat'
 import Head from './Head'
+import { Switch, Route, Link } from 'react-router-dom'
 function App(){
  return(
   <div className="App">
-    <Head />
-    <Chat />
+   
+    <Switch>
+      <Route path='/'>
+        <Head />
+        <Chat />
+      </Route>
+    </Switch>
   </div>
  )
 }
