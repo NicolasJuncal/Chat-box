@@ -9,4 +9,5 @@ When you join the website type your name and press your keyboard enter. You are 
 Note: I will add a submit button as a few mobile users had complained that is not so clear how to submit, it is "return" button on your mobile keyboard.
 
 
+![chatsupp](https://user-images.githubusercontent.com/88309853/139787597-bfdecfc6-ae40-4fa6-8d36-071a6029ba92.gif)
 
