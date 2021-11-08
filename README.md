@@ -1,5 +1,8 @@
 # ChatsUpp
 
+Site hosted at Heroku:
+https://chatsupp.herokuapp.com/
+
 ChatsUpp is a Bidirectional app that allows communication of multiple users simultaneously, developed with React, NodeJS/Express and Socket.IO
 
 It is a simple application but shows the power of a one endpoint of a two-way communication link between two programs running on the network.
